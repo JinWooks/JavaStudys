@@ -20,6 +20,7 @@ public class gugu {
 			}
 			System.out.println();
 		}
+		System.out.println("º¯µ¿");
 		sc.close();
 	}
 }
